@@ -1,0 +1,10 @@
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\bin\Debug\Project 26 Metotlar.exe.config
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\bin\Debug\Project 26 Metotlar.exe
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\bin\Debug\Project 26 Metotlar.pdb
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project 26 Metotlar.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project_26_Metotlar.Form1.resources
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project_26_Metotlar.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project 26 Metotlar.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project 26 Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project 26 Metotlar.exe
+C:\Users\mrt_b\source\repos\Project 26 Metotlar\Project 26 Metotlar\obj\Debug\Project 26 Metotlar.pdb
